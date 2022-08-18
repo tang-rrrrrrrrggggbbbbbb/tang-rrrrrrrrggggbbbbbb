@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- pls give me a stat
+- pls give me a star
 - thank everyone
 
 <!---
