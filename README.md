@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- pls give me a stat
+- thank everyone
 
 <!---
 tang-rrrrrrrrggggbbbbbb/tang-rrrrrrrrggggbbbbbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
